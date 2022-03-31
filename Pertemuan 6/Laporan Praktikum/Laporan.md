@@ -15,3 +15,5 @@ D. 49 for dan 1225 tahapan.
 
 ### Latihan Praktikum
 1. <img src = "Maskapai.png">
+
+<center>&copy islaarema31</center>
