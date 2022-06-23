@@ -20,3 +20,5 @@ Oleh : Muhammad Islahuddin 2141720268
 2. <img src = "tugas2.png">
 3. <img src = "tugas3.png">
 4. <img src = "tugas4.png">
+
+<center>&copy islaarema31</center>

@@ -1,4 +1,4 @@
-# Laporan Praktikum Pertemuan 3
+# Laporan Praktikum 
 Oleh : Muhammad Islahuddin 2141720268
 
 ## Jawaban Pertanyaan
